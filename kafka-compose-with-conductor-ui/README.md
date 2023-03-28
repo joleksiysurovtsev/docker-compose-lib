@@ -1,5 +1,7 @@
 # Run Conduktor Platform locally
 
+sources 
+https://docs.conduktor.io/platform/installation/get-started/docker-compose/
 ### Usage
 
 Run Conduktor Platform :    
