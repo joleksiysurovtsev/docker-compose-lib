@@ -1,8 +1,7 @@
 ## docker-compose-lib
 
 1. [simple-kafka](simple-kafka)
-
-![img_1.png](assets%2Fimg_1.png)
+![img.png](assets%2Fimg.png)
 
 
 2. [kafka-compose-with-conductor-ui](kafka-compose-with-conductor-ui)
